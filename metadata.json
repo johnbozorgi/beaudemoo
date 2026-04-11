@@ -1,0 +1,8 @@
+{
+  "name": "Remix: BeauGene",
+  "description": "AI-powered biological intelligence platform for humans and healthcare professionals. Featuring real-time digital twins, appointment booking, and secure telemetry for the entire health ecosystem.",
+  "requestFramePermissions": [
+    "camera",
+    "microphone"
+  ]
+}
